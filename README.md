@@ -8,7 +8,7 @@ Bash script to sync a forked project with its upstream repository
 3. Clone your forked repository
 4. Copy this bash script to the root folder of that repository
 5. bash sync-upstream <original-url> <branch-to-sync-to>
-  example: bash sync-upstream git@github.com:Juraci/swamp.git master
+example: `bash sync-upstream git@github.com:Juraci/swamp.git master`
 6. Create a branch and submit your changes by pushing it and opening a pull request in the original repository
 
 All made with help from those links:
