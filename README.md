@@ -12,6 +12,6 @@ Bash script to sync a forked project with its upstream repository
 6. Create a branch and submit your changes by pushing it and opening a pull request in the original repository
 
 All made with help from those links:
-https://help.github.com/articles/fork-a-repo/
-https://help.github.com/articles/syncing-a-fork/
-https://help.github.com/articles/using-pull-requests/ 
+* [Fork a repo](https://help.github.com/articles/fork-a-repo/)
+* [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+* [Using pull requests](https://help.github.com/articles/using-pull-requests/)
